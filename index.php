@@ -7,7 +7,10 @@
         echo "Could not connect to database";
         exit();
     }
-
+test
+testtest
+test
+test
     /* 1 - DRINKS DROPDOWN */
     /* Create a query to get all drinks and perform against the db */
     $all_drinks_query = "SELECT drink_id, drink FROM drinks";
